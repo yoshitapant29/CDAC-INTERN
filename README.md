@@ -15,6 +15,8 @@ Visualization Libraries: Matplotlib, Seaborn
 *google drive link*: https://drive.google.com/drive/folders/1RYKKrJyM7o3v9STb0R2ydNrIkVGbFfMG?usp=sharing
 Here is a video on Machine learning models.
 3. *Facial Expression Recognition:* Developed a model capable of identifying emotions from facial images, advancing empathetic technology. Evaluated VGG19, CNN, and ViTb16 models. 📸😃😢
+link below to access the work
+https://drive.google.com/drive/folders/1tf1cS4F3aqbw3ycrxiU4xhp5kFCUZ7cI?usp=sharing
 4. *Object Annotation:* Contributed to a project using Roboflow and Hasty.ai, streamlining object annotation for machine learning model training. Boosted accuracy and efficiency. 🖼🔍
 
 
